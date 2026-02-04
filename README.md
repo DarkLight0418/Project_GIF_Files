@@ -1,3 +1,7 @@
 # finup-markdown-test
-부트캠프 프로젝트(finup) gif 사진 자료 올려놓은 거 raw 링크 걸기 위한 레포지토리
+천재교육 IT 부트캠프(FullStack 12기) 프로젝트(finup) gif 사진 자료 올려놓은 거 raw 링크 걸기 위한 레포지토리
 from kcw9297/finup README.md (https://github.com/kcw9297/finup-backend)
+
+벨로그 링크 : https://velog.io/@darklight_0418/FinUp-gif-이미지-자료
+
+2026년 2월 4일 작성
